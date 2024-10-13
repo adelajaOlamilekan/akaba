@@ -1,2 +1,2 @@
 # akaba
-This is a CLI scaffolding tool for FastAPI. It helps create a project template with boilerplate code
+This is a CLI scaffolding tool for FastAPI. It helps create a project structure template with boilerplate code
