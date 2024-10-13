@@ -1,0 +1,10 @@
+LICENSE
+README.md
+akaba.py
+setup.py
+akaba.egg-info/PKG-INFO
+akaba.egg-info/SOURCES.txt
+akaba.egg-info/dependency_links.txt
+akaba.egg-info/entry_points.txt
+akaba.egg-info/requires.txt
+akaba.egg-info/top_level.txt

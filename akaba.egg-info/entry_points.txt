@@ -1,0 +1,2 @@
+[console_scripts]
+akaba = akaba:create_project_structure

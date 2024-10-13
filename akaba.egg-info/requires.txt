@@ -1,0 +1,6 @@
+Click
+pydantic-settings
+FastAPI
+SQLAlchemy
+alembic
+pydantic
